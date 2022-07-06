@@ -15,5 +15,5 @@ A full list of the features can be seen [here](https://drive.google.com/file/d/1
 ____
 ### How to Use
 Go to [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club/code?datasetId=902) and download the data set. 
-Put the file `accepted_2007_to_2018Q4.csv`in the folder _'data/raw'_ and run the preprocessing notebook located in the directory 'notebooks'. 
-This yields a preprocessed dataframe in the _'data/preprocessed'_ folder. Afterwards, you can run the EDA notebook.
+Put the file `accepted_2007_to_2018Q4.csv`in the folder `'data/raw'` and run the preprocessing notebook located in the directory 'notebooks'. 
+This yields a preprocessed dataframe in the `'data/preprocessed'` folder. Afterwards, you can run the EDA notebook.
