@@ -1,6 +1,6 @@
-# Bonus Project: Advanced Machine Learning
+# Bonus Project: Advanced Machine Learning 🚀
 
-Author of the project is Alessio Negrini (2106547) and Nina Mertins (xxx).
+Authors of this project are Nina Mertins (xxx) and Alessio Negrini (2106547).
 _____
 
 ### Project Structure
