@@ -5,7 +5,7 @@ _____
 
 ### Project Structure
 The project is divided into three different steps:
-1. In the `preprocessing` notebook we clean the data, i.e. we remove NaNs attributes, analyze categorical numbers, convert the columns into the correct data type etc. We also define our binary target variable (default and non default). Afterwards we export the preprocessed data and put it into the folder 'data/preprocessed'.
+1. In the `preprocessing` notebook we clean the data, i.e. we remove NaNs attributes, analyze categorical attributes, convert the columns into the correct data type etc. We also define our binary target variable (default (1) and non default (0)). Afterwards we export the preprocessed data and put it into the folder 'data/preprocessed'.
 2. In the `eda` notebook we do explanatory data analysis to get a better understanding of our data.
 3. In the last notebook `predictions` we implement several classifiers and predictors using models such as Logistic Regression, SVM, Neuronal Networks etc. Also includes comparison of all models and final thoughts and conclusion.
 _____
