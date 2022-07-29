@@ -2,7 +2,6 @@
 
 Authors of this project are Nina Mertins (2107539) and Alessio Negrini (2106547).
 _____
-### Project Structure
 ![](assets/project_structure.png)
 
 The project is divided into three different steps:
