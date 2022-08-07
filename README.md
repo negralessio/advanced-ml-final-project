@@ -1,6 +1,6 @@
 # Bonus Project: Advanced Machine Learning 🚀
 
-Authors of this project are Nina Mertins and Alessio Negrini.
+Authors of this project are Nina Mertins and Alessio Negrini (Karlsruhe Institute of Technology)
 _____
 ![](assets/project_structure.png)
 
