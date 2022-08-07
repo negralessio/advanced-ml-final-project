@@ -12,7 +12,7 @@ _____
 ### Results
 <img src="assets/final_results.PNG" alt="results" width="550"/>
 
-We decided that the **Logistic Regression** is the most suitable model for the use case, due to its scalability and interpretability.
+We decided that the **Logistic Regression** is the most suitable model for the use case, due to its scalability, speed, performance and interpretability.
 _____
 ### About this project
 This repository contains the bonus project for the lecture 'Advanced Machine Learning' 
