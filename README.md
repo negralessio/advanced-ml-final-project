@@ -9,6 +9,10 @@ The project is divided into three different steps:
 2. In the `eda` notebook we do explanatory data analysis to get a better understanding of our data.
 3. In the last notebook `predictions` we implement several classifiers and predictors using models such as Logistic Regression, SVM, Neuronal Networks etc. Also includes comparison of all models and final thoughts and conclusion.
 _____
+### Results
+![](assets/final_results.PNG)
+We decided that the **Logistic Regression** is the most suitable model for the use case, due to its scalability and interpretability.
+_____
 ### About this project
 This repository contains the bonus project for the lecture 'Advanced Machine Learning' 
 by Dr. Nazemi in Summer Semester 2022 at KIT.
