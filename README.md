@@ -1,6 +1,6 @@
 # Bonus Project: Advanced Machine Learning 🚀
 
-Authors of this project are Nina Mertins (2107539) and Alessio Negrini (2106547).
+Authors of this project are Nina Mertins and Alessio Negrini.
 _____
 ![](assets/project_structure.png)
 
@@ -10,7 +10,8 @@ The project is divided into three different steps:
 3. In the last notebook `predictions` we implement several classifiers and predictors using models such as Logistic Regression, SVM, Neuronal Networks etc. Also includes comparison of all models and final thoughts and conclusion.
 _____
 ### Results
-![](assets/final_results.PNG)
+<img src="assets/final_results.PNG" alt="results" width="550"/>
+
 We decided that the **Logistic Regression** is the most suitable model for the use case, due to its scalability and interpretability.
 _____
 ### About this project
